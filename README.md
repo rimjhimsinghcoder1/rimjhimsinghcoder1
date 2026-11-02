@@ -17,8 +17,8 @@
 
 ### About me
 
-- AI Engineer and founder of **Rikanverse Ltd.**, an AI engineering studio
-- I build **agentic AI systems** that reason, plan, use tools and know when *not* to answer
+- AI Engineer and founder of Rikanverse Ltd., London, an AI Engineering Studio that builds AI Engineering Marvels.
+- I build **Agentic AI Systems** that reason, plan, use tools and know when *not* to answer
 - MSc in Behavioural & Data Science, University of Warwick · Master's in Quantitative Economics
 - 11 published research articles in economics and ML-driven analysis · Author of *Puzzles of Labour Economics* (2022)
 - Current focus: reliable LLM agents, clarification and abstention, voice-native interfaces
