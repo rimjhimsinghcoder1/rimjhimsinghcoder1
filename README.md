@@ -34,12 +34,7 @@
 | **Hotel Review Automation** | 4-layer review-response system with human-in-the-loop workflow |
 | **[Rimjhim AI Kingdom](https://rimjhimaikingdom.com/)** | Interactive showcase of agentic AI across industries |
 
----
 
-### Latest research
-
-**Engineering Trustworthy Conversational AI: When to Ask, Act, or Abstain in Deployed LLM Agents**
-*Preprint, Zenodo, 2026* · [doi:10.5281/zenodo.23887913](https://doi.org/10.5281/zenodo.23887913)
 
 ---
 
