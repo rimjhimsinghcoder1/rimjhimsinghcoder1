@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner(1).svg" width="100%" alt="Rimjhim (Rémy) Singh, AI Engineer and Founder of Rikanverse"/>
+  <img src="assets/banner2.svg" width="100%" alt="Rimjhim (Rémy) Singh, AI Engineer and Founder of Rikanverse"/>
 </p>
 
 <p align="center">
