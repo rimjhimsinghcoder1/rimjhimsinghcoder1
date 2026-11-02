@@ -29,7 +29,7 @@
 
 | Project | What it is |
 |---|---|
-| **[Rikanverse](https://rikanverse.com/)** | Proactive, multilingual, voice-native ReAct agent for the UK property market · [Live beta](https://app.rikanverse.com/) · [Demo](https://www.youtube.com/watch?v=BeVBdet2ClM) |
+| **[Rikanverse](https://rikanverse.com/)** | Proactive, multilingual, voice-native ReAct agent for the UK property market · [Demo](https://www.youtube.com/watch?v=BeVBdet2ClM) |
 | **Fintech & Banking Agent** | Banking agent on a ReAct orchestration engine with a multi-gate safety system |
 | **Hotel Review Automation** | 4-layer review-response system with human-in-the-loop workflow |
 | **[Rimjhim AI Kingdom](https://rimjhimaikingdom.com/)** | Interactive showcase of agentic AI across industries |
