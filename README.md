@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Rimjhim (Rémy) Singh </h1>
-<h3 align="center">AI Engineer · Agentic AI Architect · Economist </h3>
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Rimjhim (Rémy) Singh, AI Engineer and Founder of Rikanverse"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8A7CFF&center=true&vCenter=true&width=620&lines=Agentic+AI+%7C+LLM+agents+%7C+Voice+AI;Founder+of+Rikanverse+Ltd.%2C+London;Building+AI+that+knows+when+to+ask%2C+act+or+decline" alt="Typing intro"/>
+</p>
 
 <p align="center">
   <a href="https://rikanverse.com/"><img src="https://img.shields.io/badge/Rikanverse-Website-6C63FF?style=for-the-badge" alt="Rikanverse"/></a>
@@ -12,11 +17,11 @@
 
 ### About me
 
-- AI Engineer and founder of **Rikanverse Ltd.**, an AI engineering studio
+- London-based AI Engineer and founder of **Rikanverse Ltd.**, an AI engineering studio
 - I build **agentic AI systems** that reason, plan, use tools and know when *not* to answer
 - MSc in Behavioural & Data Science, University of Warwick · Master's in Quantitative Economics
-- 15+ published research articles in economics and ML-driven analysis · Author of *Puzzles of Labour Economics* (2022)
--Current focus: reliable LLM agents, clarification and abstention, voice-native interfaces
+- 11 published research articles in economics and ML-driven analysis · Author of *Puzzles of Labour Economics* (2022)
+- Current focus: reliable LLM agents, clarification and abstention, voice-native interfaces
 
 ---
 
@@ -31,9 +36,9 @@
 
 ---
 
-### 📄 Latest research
+### Latest research
 
-**Engineering Trustworthy Conversational AI: When to Ask, Act, or Abstain in Deployed LLM Agents**
+**When to Ask, Act or Decline: AI Engineering Lessons from Rikanverse, a Deployed LLM Agent**
 *Preprint, Zenodo, 2026* · [doi:10.5281/zenodo.23887913](https://doi.org/10.5281/zenodo.23887913)
 
 ---
@@ -55,13 +60,7 @@
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rimjhimsinghcoder1&show_icons=true&hide_border=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimjhimsinghcoder1&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
----
 
 <p align="center"><i>"AI isn't just about algorithms. It's about impact."</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3A1C71,100:7B2D6E&height=110&section=footer" alt=""/>
