@@ -38,7 +38,7 @@
 
 ### Latest research
 
-**When to Ask, Act or Decline: AI Engineering Lessons from Rikanverse, a Deployed LLM Agent**
+**Engineering Trustworthy Conversational AI: When to Ask, Act, or Abstain in Deployed LLM Agents**
 *Preprint, Zenodo, 2026* · [doi:10.5281/zenodo.23887913](https://doi.org/10.5281/zenodo.23887913)
 
 ---
