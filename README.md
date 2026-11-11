@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8A7CFF&center=true&vCenter=true&width=620&lines=Agentic+AI+%7C+LLM+agents+%7C+Voice+AI;Founder+of+Rikanverse+Ltd.%2C+London(2025–2026);Building+AI+that+knows+when+to+ask%2C+act+or+decline" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8A7CFF&center=true&vCenter=true&width=620&lines=Agentic+AI+%7C+LLM+agents+%7C+Voice+AI;Founder+of+Rikanverse+Ltd.%2C+London+(+2025+–+2026+);Building+AI+that+knows+when+to+ask%2C+act+or+decline" alt="Typing intro"/>
 </p>
 
 <p align="center">
