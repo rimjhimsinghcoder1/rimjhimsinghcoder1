@@ -10,15 +10,13 @@
   <a href="https://rikanverse.com/"><img src="https://img.shields.io/badge/Rikanverse-Website-6C63FF?style=for-the-badge" alt="Rikanverse"/></a>
   <a href="https://rimjhimaikingdom.com/"><img src="https://img.shields.io/badge/Rimjhim_AI_Kingdom-Showcase-FF6F61?style=for-the-badge" alt="Rimjhim AI Kingdom"/></a>
   <a href="https://medium.com/@rimjhimsingh.professional"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://doi.org/10.5281/zenodo.23887913"><img src="https://img.shields.io/badge/Preprint-Zenodo-1682D4?style=for-the-badge" alt="Zenodo preprint"/></a>
 </p>
 
 ---
 
 ### About me
 
-- AI Engineer and founder of Rikanverse Ltd., London (2025–2026), an AI Engineering Studio that builds AI Engineering Marvels.
-- I build **Agentic AI Systems** that reason, plan, use tools and know when *not* to answer
+- AI Engineer, AI Researcher and Tech Founder of Rimjhim AI Kingdom and Rikanverse Ltd., London (2025–2026), an AI Engineering Studio that builds AI Engineering Marvels.
 - MSc in Behavioural & Data Science, University of Warwick · Master's in Economics (Quantitative)
 - 11 published research articles in economics and ML-driven analysis · Author of *Puzzles of Labour Economics* (2022)
 - Current focus: reliable LLM agents, clarification and abstention, voice-native interfaces
